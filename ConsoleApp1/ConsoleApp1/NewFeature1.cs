@@ -10,9 +10,9 @@ namespace ConsoleApp1
     {
         public int Add()
         {
-            int x = 2;
-            int y = 4;
-            int z = x + y;
+            var x = 2;
+            var y = 4;
+            var z = x + y;
             return z;
         }
     }

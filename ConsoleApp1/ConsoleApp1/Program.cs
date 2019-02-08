@@ -10,7 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.Writeline("Code was added using vs onto GitHub!");
+            Console.WriteLine("Code was added using vs onto GitHub!");
+
+            Console.ReadLine();
         }
     }
 }

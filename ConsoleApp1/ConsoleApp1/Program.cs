@@ -12,6 +12,8 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Code was added using vs onto GitHub!");
 
+            //code to call NewFeature1
+
             Console.ReadLine();
         }
     }
